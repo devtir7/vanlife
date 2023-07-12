@@ -22,4 +22,4 @@ FEATURES
 
 -Responsive Design: The app is built with a responsive design approach, ensuring a seamless experience across various devices and screen sizes. Users can access Vanlife from desktops, tablets, or mobile devices.
 
-DEMO: vanlife-aatir.netlify.app
+DEMO: https://vanlife-aatir.netlify.app/
