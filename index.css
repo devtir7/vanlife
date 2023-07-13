@@ -126,8 +126,9 @@ footer {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    min-height: 600px;
+    min-height: 350px;
     color: white;
+    min-height: 100vh;
     padding: 45px 23px;
 }
 
@@ -776,7 +777,6 @@ img.graph {
 
 @media (min-width: 750px) {
     .home-container {
-        min-height: 550px;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -807,9 +807,6 @@ img.graph {
 }
 
 @media (min-width: 1560px) {
-    .home-container {
-        min-height: 100vh;
-    }
 
     .home-container h1 {
         text-align: center;
@@ -838,9 +835,5 @@ img.graph {
     .about-hero-image {
         width: 70%;
         margin-left: 1.5rem;
-    }
-
-    .about-page-cta {
-        
     }
 }
