@@ -25,6 +25,7 @@ FEATURES
 FOR LOGGING IN TO VIEW THE HOST SECTION OF THE APP:
 
 -username: b@b.com
+
 -password: p123
 
 DEMO: https://vanlife-aatir.netlify.app/
