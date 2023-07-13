@@ -23,7 +23,8 @@ FEATURES
 -Responsive Design: The app is built with a responsive design approach, ensuring a seamless experience across various devices and screen sizes. Users can access Vanlife from desktops, tablets, or mobile devices.
 
 FOR LOGGING IN TO VIEW THE HOST SECTION OF THE APP:
-username: b@b.com
-password: p123
+
+-username: b@b.com
+-password: p123
 
 DEMO: https://vanlife-aatir.netlify.app/
